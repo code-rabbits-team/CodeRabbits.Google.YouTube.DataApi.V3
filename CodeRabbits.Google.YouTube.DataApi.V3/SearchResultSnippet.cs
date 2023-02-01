@@ -37,7 +37,6 @@ public class SearchResultSnippet
     /// For each object in the map, the key is the name of the thumbnail image,
     /// and the value is an object that contains other information about the thumbnail.
     /// </summary>
-
     public Dictionary<string, Thumbnail>? Thumbnails { get; set; }
 
     /// <summary>
